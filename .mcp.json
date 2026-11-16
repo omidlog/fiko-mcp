@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "fiko": {
+      "url": "https://api.fiko.net/mcp"
+    }
+  }
+}

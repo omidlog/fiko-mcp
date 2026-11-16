@@ -1,0 +1,10 @@
+{
+  "name": "fiko",
+  "version": "1.0.0",
+  "description": "Run your Instagram, WhatsApp and Telegram business from Gemini CLI: inbox, CRM, AI replies, bookings and publishing.",
+  "mcpServers": {
+    "fiko": {
+      "httpUrl": "https://api.fiko.net/mcp"
+    }
+  }
+}

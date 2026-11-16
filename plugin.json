@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "fiko",
+  "description": "Connect Cursor to a Fiko workspace to manage Instagram, WhatsApp and Telegram inbox, CRM, bookings and publishing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Fiko AI Labs",
+    "email": "info@fiko.net",
+    "url": "https://fiko.io"
+  },
+  "homepage": "https://fiko.io",
+  "license": "MIT",
+  "keywords": [
+    "fiko",
+    "instagram",
+    "whatsapp",
+    "telegram",
+    "crm",
+    "mcp",
+    "marketing"
+  ]
+}
